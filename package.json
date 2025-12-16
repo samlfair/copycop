@@ -1,0 +1,31 @@
+{
+  "name": "copycop",
+  "type": "module",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "copycop": "./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.23.0",
+  "dependencies": {
+    "@caporal/core": "^2.0.7",
+    "commander": "^14.0.2",
+    "compromise": "^14.14.4",
+    "remark": "^15.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-retext": "^6.0.1",
+    "remark-stringify": "^11.0.0",
+    "retext-english": "^5.0.0",
+    "retext-stringify": "^4.0.0",
+    "strip-markdown": "^6.0.0",
+    "unified": "^11.0.5",
+    "unist-util-visit": "^5.0.0"
+  }
+}

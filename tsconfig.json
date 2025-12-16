@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"resolveJsonModule": true
+	},
+	"include": [
+		"**.js",
+		"**.json"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
