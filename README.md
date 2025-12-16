@@ -61,3 +61,9 @@ When it comes to headings and subheadings, use none or at least two. Never use a
 - Vary sentence length
 - Introduce a list with an independent clause
 - Avoid gerunds
+
+## References
+
+- [The Penn Treebank Tagset](https://euge.de/tgrep2-tutorial/references/the-penn-treebank-tagset/)
+- [Bracketing Guidelines for Treebank II Style Penn Treebank Project](https://groups.inf.ed.ac.uk/switchboard/TreebankII.pdf)
+- [Penn Treebank II Tags](https://gist.github.com/nlothian/9240750)
